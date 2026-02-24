@@ -49,7 +49,7 @@ MongoDB • PostgreSQL
 
 ## 📫 Connect
 
-LinkedIn: https://www.linkedin.com/in/tazeem-khan-662a24207/  
+LinkedIn: https://www.linkedin.com/in/tazeem-khan-dev/  
 Email: tazeemkhan0712@gmail.com  
 
 ---
