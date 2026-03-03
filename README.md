@@ -1,8 +1,8 @@
 # Tazeem Khan
 
-Frontend-focused Full-Stack Engineer building scalable, production-grade React/Next.js applications with structured architecture and performance-first engineering.
+Full-Stack Engineer with a strong focus on frontend architecture and structured UI systems.
 
-I design predictable UI systems, persistent layout architectures, and API-driven workflows that remain maintainable as they scale.
+I build production-grade React and Next.js applications while designing backend APIs and control systems that keep them predictable, secure, and scalable.
 
 ---
 
@@ -11,36 +11,32 @@ I design predictable UI systems, persistent layout architectures, and API-driven
 ### 🧠 DSA Notes Navigator  
 https://tazeem-dsa.netlify.app/
 
-Markdown-driven learning platform engineered for deterministic navigation and performance optimization.
+A GitHub-inspired Markdown navigation system optimized for deterministic learning workflows.
 
-• Persistent layout architecture using Next.js App Router (zero-remount navigation)  
-• Custom GitHub API gateway with controlled request orchestration  
-• Client-side memoization to eliminate redundant API calls  
-• Hierarchical Markdown parsing powering structured sidebar routing  
-• Keyboard-first UX for efficient, distraction-free workflows  
+- Zero-remount SPA shell using Next.js App Router  
+- Split-view layout with per-container scroll persistence  
+- Backend-gated GitHub API proxy with Redis-based quota control  
+- Session-locked token system to prevent API abuse  
+- Keyboard-first navigation and revision mode for active recall  
 
-This project demonstrates system design thinking, structured state management, and performance-conscious frontend engineering.
+Demonstrates frontend state orchestration, controlled API integration, and production-oriented system design.
 
 ---
 
 ## 🛠 Core Stack
 
-### Frontend  
-React • Next.js (App Router) • TypeScript • Redux Toolkit • Tailwind CSS • MUI  
+**Frontend**  
+React · Next.js (App Router) · TypeScript · Redux Toolkit · Tailwind CSS · MUI  
 
-### Backend  
-Node.js • Express • REST API Design • Request Validation  
+**Backend**  
+Node.js · Express · REST APIs · JWT Authentication · Redis  
 
-### Database  
-MongoDB • PostgreSQL  
+**Databases**  
+MongoDB · PostgreSQL  
 
 ---
 
 ## 📫 Connect
 
 LinkedIn → https://www.linkedin.com/in/tazeem-khan-dev/  
-Email → tazeemkhan0712@gmail.com  
-
----
-
-> Building structured, predictable systems designed for long-term scalability.
+Email → tazeemkhan0712@gmail.com
